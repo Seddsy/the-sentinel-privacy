@@ -2,9 +2,9 @@
 
 **Last updated** 12 November 2026
 
-**Application** The Sentinel 0.0.1 for Root
+**Application** The Sentinel for Root (native Setup pilot)
 
-This notice covers **Setup** in the native Root app. Setup helps the Root community owner create or connect a dedicated isolation role, channel group, and channel, and optionally select a regular access role. The separate local demo is a development environment.
+This notice covers **Setup** in the native Root app. Setup helps the Root community owner create or connect a dedicated isolation role, channel group, and channel, and optionally create or select a regular access role. The separate local demo is a development environment.
 
 ## Operator and contact
 
@@ -32,4 +32,4 @@ To ask for access, correction, or deletion of information associated with Setup,
 
 ## Changes
 
-This notice will be updated when the native app changes how it handles information. The date and application version above identify the current scope.
+This notice will be updated when the native app changes how it handles information. The date above identifies the current scope.
